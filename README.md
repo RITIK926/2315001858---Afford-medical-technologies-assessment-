@@ -4,9 +4,6 @@ A high-performance, responsive microservice aggregation platform built as a prof
 
 ---
 
-## 🚀 Live Demo Link
-The application has been compiled, validated, and is running live under fully secure server-side container orchestration:
-- **Live Deployment Platform URL:** [https://ais-pre-xj6adh3yopd7pcjgtk7or6-570771354939.asia-southeast1.run.app](https://ais-pre-xj6adh3yopd7pcjgtk7or6-570771354939.asia-southeast1.run.app)
 
 ---
 
