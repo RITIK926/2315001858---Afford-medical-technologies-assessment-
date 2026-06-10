@@ -3,7 +3,10 @@
 A high-performance, responsive microservice aggregation platform built as a professional recruitment assessment suite. It consolidates four critical enterprise engineering solutions requested for the AffordMed evaluations.
 
 ---
+🚀 Live Demo Link
+The application has been compiled, validated, and is running live under fully secure server-side container orchestration:
 
+Live Deployment Platform URL:http://localhost:3000
 
 ---
 
